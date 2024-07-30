@@ -1,0 +1,20 @@
+﻿  GestionnaireDeTaches.cpp
+C:\Users\matte\source\repos\Task Manager\Task Manager\GestionnaireDeTaches.cpp(112,24): error C2079: 'oss' utilise une class de 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>' non défini
+C:\Users\matte\source\repos\Task Manager\Task Manager\GestionnaireDeTaches.cpp(113,9): error C2297: « << » : non valide, car l’opérande droit a le type « const char * »
+C:\Users\matte\source\repos\Task Manager\Task Manager\GestionnaireDeTaches.cpp(113,57): error C2297: « << » : non valide, car l’opérande droit a le type « const char [2] »
+C:\Users\matte\source\repos\Task Manager\Task Manager\GestionnaireDeTaches.cpp(114,9): error C2297: « << » : non valide, car l’opérande droit a le type « const char * »
+C:\Users\matte\source\repos\Task Manager\Task Manager\GestionnaireDeTaches.cpp(114,65): error C2297: « << » : non valide, car l’opérande droit a le type « const char [2] »
+C:\Users\matte\source\repos\Task Manager\Task Manager\GestionnaireDeTaches.cpp(115,9): warning C4554: '<<' : vérifiez si la priorité des opérateurs n'est pas une cause possible d'erreur ; utilisez des parenthèses pour rendre les priorités plus claires
+C:\Users\matte\source\repos\Task Manager\Task Manager\GestionnaireDeTaches.cpp(115,31): error C2297: « << » : non valide, car l’opérande droit a le type « const char [2] »
+C:\Users\matte\source\repos\Task Manager\Task Manager\GestionnaireDeTaches.cpp(116,9): error C2297: « << » : non valide, car l’opérande droit a le type « const char * »
+C:\Users\matte\source\repos\Task Manager\Task Manager\GestionnaireDeTaches.cpp(116,57): error C2297: « << » : non valide, car l’opérande droit a le type « const char [2] »
+C:\Users\matte\source\repos\Task Manager\Task Manager\GestionnaireDeTaches.cpp(117,9): error C2297: « << » : non valide, car l’opérande droit a le type « const char * »
+C:\Users\matte\source\repos\Task Manager\Task Manager\GestionnaireDeTaches.cpp(117,55): error C2297: « << » : non valide, car l’opérande droit a le type « const char [2] »
+C:\Users\matte\source\repos\Task Manager\Task Manager\GestionnaireDeTaches.cpp(118,9): error C2297: « << » : non valide, car l’opérande droit a le type « const char * »
+C:\Users\matte\source\repos\Task Manager\Task Manager\GestionnaireDeTaches.cpp(118,41): warning C4552: '<<' : résultat de l'expression non utilisé
+  main.cpp
+  Tache.cpp
+C:\Users\matte\source\repos\Task Manager\Task Manager\Tache.cpp(10,15): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matte\source\repos\Task Manager\Task Manager\Tache.cpp(48,10): error C2039: 'cout' n'est pas membre de 'std'
+C:\Users\matte\source\repos\Task Manager\Task Manager\Tache.cpp(48,10): error C2065: 'cout' : identificateur non déclaré
+  Génération de code en cours...
